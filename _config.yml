@@ -15,6 +15,7 @@ author: Bar Hochman
 
 navbar-links:
   About Me: "aboutme"
+  Appointments: "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1fghEczt4M3xis2TXJpmCDXPwQZRCEIP1T6bptRMl0eKzV9Utc57rgVjSAzzppDOwdEkAFps--"
   Github: "https://github.com/jochman"
   Docker Hub: "http://hub.docker.com/r/jochman/"
 
